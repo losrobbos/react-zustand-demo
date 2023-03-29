@@ -1,5 +1,4 @@
 import create from "zustand";
-import { TodoList } from "../pages/TodoList";
 
 type IUser = {
   username: string
